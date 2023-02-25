@@ -23,7 +23,8 @@
   --scrollbar-thin-thumb: #23283d;
   --activity-card-background: #101320;
   --input-background: #1e2233;
-  --shadow: #4057bc;
+  --search-popout-option-fade: #23283d;
+  --search-popout-option-fade-hover: #4057bc;
 }
 :root .newMessagesBar-1hF-9G {
     background-color: var(--brand-experiment);
