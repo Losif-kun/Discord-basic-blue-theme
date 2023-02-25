@@ -1,0 +1,52 @@
+@import url(https://maendisease.github.io/BetterDiscordStuff/css/bettterInvites.css);
+@import url(https://comfy-themes.github.io/Discord/betterdiscord/no-scrollbar.css);
+:root,
+.theme-dark {
+  --background-primary: #23283d;
+  --background-secondary: #1e2233;
+  --background-secondary-alt: #191f2e;
+  --background-tertiary: #101320;
+  --background-mobile-primary: #23283d;
+  --background-mobile-secondary: #1e2233;
+  --channeltextarea-background: #191f2e;
+  --background-accent: #7289da;
+  --background-message-hover: transparent;
+  --background-modifier-hover: #4057bc;
+  --background-modifier-active: #2d3c83;
+  --background-modifier-selected: #2d3c83;
+  --deprecated-card-bg: #23283d;
+  --background-floating: #23283d;
+  --deprecated-quickswitcher-input-background: #101320;
+  --elevation-low: none;
+  --scrollbar-auto-thumb: #23283d;
+  --scrollbar-auto-track: #23283d;
+  --scrollbar-thin-thumb: #23283d;
+  --activity-card-background: #101320;
+  --input-background: #1e2233;
+  --shadow: #4057bc;
+}
+:root .newMessagesBar-1hF-9G {
+    background-color: var(--brand-experiment);
+    border-radius: 50px;
+    margin-top: 5px;
+}
+:root .userPopoutOuter-3AVBmJ .userPopoutOverlayBackground-dKOOda .role-2TIOKu {
+    position: relative;
+    overflow: hidden;
+    border: none;
+    z-index: 1;
+}
+  :root .userPopoutOuter-3AVBmJ .userPopoutOverlayBackground-dKOOda .role-2TIOKu .roleRemoveButton-17oXnT {
+    position: static;
+}
+  :root .userPopoutOuter-3AVBmJ .userPopoutOverlayBackground-dKOOda .role-2TIOKu .roleRemoveButton-17oXnT .roleCircle-3K9O3d::before {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: inherit;
+    opacity: 0.3;
+    z-index: -1;
+}
